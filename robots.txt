@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fienozei.github.io/sitemap.html.gz
+Sitemap: https://fienozei.github.io/app/sitemap.html.gz
+Sitemap: https://fienozei.github.io/assets/sitemap.html.gz
+Sitemap: https://fienozei.github.io/css/sitemap.html.gz
+Sitemap: https://fienozei.github.io/includes/sitemap.html.gz
+Sitemap: https://fienozei.github.io/item/sitemap.html.gz
+Sitemap: https://fienozei.github.io/src/sitemap.html.gz
